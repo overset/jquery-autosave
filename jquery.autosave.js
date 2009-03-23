@@ -1,6 +1,6 @@
 /*
 **	autoSave jQuery plugin - automatically save a js object to a server-side script
-**		0.3 autoSave array of objects
+**		0.3 autoSave multiple object:handler pairs
 **		0.2 addition of callback function upon successful server-side save
 **		0.1 initial release + simple json serialization compare on interval and jQuery POST when the object changes
 **	authored by Jim Palmer - released under MIT license
